@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sampleshoestore/static/css/main.bedf8759.chunk.css",
+    "main.js": "/sampleshoestore/static/js/main.97a85dc1.chunk.js",
+    "main.js.map": "/sampleshoestore/static/js/main.97a85dc1.chunk.js.map",
+    "runtime-main.js": "/sampleshoestore/static/js/runtime-main.f0e3399a.js",
+    "runtime-main.js.map": "/sampleshoestore/static/js/runtime-main.f0e3399a.js.map",
+    "static/js/2.e6f88944.chunk.js": "/sampleshoestore/static/js/2.e6f88944.chunk.js",
+    "static/js/2.e6f88944.chunk.js.map": "/sampleshoestore/static/js/2.e6f88944.chunk.js.map",
+    "index.html": "/sampleshoestore/index.html",
+    "precache-manifest.f291566835220a9187d918349634f819.js": "/sampleshoestore/precache-manifest.f291566835220a9187d918349634f819.js",
+    "service-worker.js": "/sampleshoestore/service-worker.js",
+    "static/css/main.bedf8759.chunk.css.map": "/sampleshoestore/static/css/main.bedf8759.chunk.css.map",
+    "static/js/2.e6f88944.chunk.js.LICENSE.txt": "/sampleshoestore/static/js/2.e6f88944.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0e3399a.js",
+    "static/js/2.e6f88944.chunk.js",
+    "static/css/main.bedf8759.chunk.css",
+    "static/js/main.97a85dc1.chunk.js"
+  ]
+}
